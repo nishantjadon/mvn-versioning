@@ -1,0 +1,33 @@
+//node.bit.cloud/:_authToken=88aad89f-73e2-4782-ab28-1cff6679f4da
+//node.bit.cloud/:gauthToken=88aad89f-73e2-4782-ab28-1cff6679f4da
+TS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+mvnw
+mvnw.cmd
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+**/src/main/**/build/
+**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
